@@ -6,4 +6,5 @@ O programa SimulIDE pode ser baixado na seção de releases. Depois de baixado �
 O software de simulação SimulIDE tem sua própria licença, que no caso é GPL v3, segundo seu respectivo site oficial, https://www.simulide.com/p/home.html .
 
 Para abrir o SimulIDE no Linux são necessárias as seguintes dependências:
+
 ldd simulide:
