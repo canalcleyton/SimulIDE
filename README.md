@@ -7,7 +7,7 @@ O software de simulação SimulIDE tem sua própria licença, que no caso é GPL
 
 Para abrir o SimulIDE no Linux são necessárias as seguintes dependências:
 ldd simulide:
-	linux-vdso.so.1 (0x00007ffd68fed000)
+	linux-vdso.so.1 (0x00007ffd68fed000).
 	libQt5Svg.so.5 => /usr/lib/libQt5Svg.so.5 (0x00007faac059f000)
 	libQt5Widgets.so.5 => /usr/lib/libQt5Widgets.so.5 (0x00007faabfe00000)
 	libQt5Multimedia.so.5 => /usr/lib/libQt5Multimedia.so.5 (0x00007faabfd00000)
